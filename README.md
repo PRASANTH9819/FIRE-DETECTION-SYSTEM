@@ -64,7 +64,7 @@ Connect the components as follows:
 - 🤖 Integrate **Telegram Bot** for instant fire alerts.
 
 ## 📂 Repository
-Find the source code on **GitHub**: [Your Repository Link Here]
+Find the source code on **GitHub**: [https://github.com/PRASANTH9819/FIRE-DETECTION-SYSTEM]
 
 ---
 This project is a simple yet effective **fire detection system** for safety monitoring using **ESP8266** and **Blynk**. 🔥📲
